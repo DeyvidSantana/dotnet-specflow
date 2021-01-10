@@ -1,0 +1,14 @@
+﻿2021-01-10T15:35:57.4555596-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-01-10T15:35:57.4555596-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.5.22 in Framework clr40 in x86 mode execution started
+2021-01-10T15:35:57.4555596-03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\projetos\dotnet_specflow\Financeiro\packages\SpecRun.Runner.3.5.22\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-01-10T15:35:57.4562832-03:00;VSTestExecutionThread;Info;Current UserName: 'sdsde', MachineName: 'DESKTOP-CVPNEEM'
+2021-01-10T15:35:57.6051592-03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:35:57.6061560-03:00;VSTestExecutionThread;Info;Output folder configured to "D:\projetos\dotnet_specflow\Financeiro\TestResults" (default)
+2021-01-10T15:35:57.6061560-03:00;VSTestExecutionThread;Info;Profile: 
+2021-01-10T15:35:57.6849465-03:00;VSTestExecutionThread;Info;Log file path: D:\projetos\dotnet_specflow\Financeiro\TestResults\Unnamed project__2021-01-10T153557.log
+2021-01-10T15:35:57.6969138-03:00;Thread#13;Info;Checking activation
+2021-01-10T15:35:57.8225779-03:00;Thread#13;Info;Activated.
+2021-01-10T15:35:57.8225779-03:00;Thread#13;Info;Activation check completed
+2021-01-10T15:35:57.8230551-03:00;Thread#13;Info;Starting test run
+2021-01-10T15:35:57.9013666-03:00;Thread#13;Info;Discovering target: Default
+2021-01-10T15:35:57.9073502-03:00;Thread#13;Info;Discovering tests from assembly: D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll

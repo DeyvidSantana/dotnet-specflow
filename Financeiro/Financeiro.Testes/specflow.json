@@ -1,0 +1,8 @@
+{
+  "language": {
+    "feature": "pt-BR"
+  },
+  "unitTestProvider": {
+    "name":  "MSTest"
+  }
+}

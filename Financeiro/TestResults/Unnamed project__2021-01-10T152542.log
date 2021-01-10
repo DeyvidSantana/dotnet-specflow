@@ -1,0 +1,201 @@
+﻿2021-01-10T15:25:42.2244335-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-01-10T15:25:42.2244335-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.5.22 in Framework clr40 in x86 mode execution started
+2021-01-10T15:25:42.2244335-03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\projetos\dotnet_specflow\Financeiro\packages\SpecRun.Runner.3.5.22\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-01-10T15:25:42.2254303-03:00;VSTestExecutionThread;Info;Current UserName: 'sdsde', MachineName: 'DESKTOP-CVPNEEM'
+2021-01-10T15:25:42.4238992-03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:25:42.4248969-03:00;VSTestExecutionThread;Info;Output folder configured to "D:\projetos\dotnet_specflow\Financeiro\TestResults" (default)
+2021-01-10T15:25:42.4248969-03:00;VSTestExecutionThread;Info;Profile: 
+2021-01-10T15:25:42.5036870-03:00;VSTestExecutionThread;Info;Log file path: D:\projetos\dotnet_specflow\Financeiro\TestResults\Unnamed project__2021-01-10T152542.log
+2021-01-10T15:25:42.5196432-03:00;Thread#13;Info;Checking activation
+2021-01-10T15:25:42.6842048-03:00;Thread#13;Info;Activated.
+2021-01-10T15:25:42.6842048-03:00;Thread#13;Info;Activation check completed
+2021-01-10T15:25:42.6842048-03:00;Thread#13;Info;Starting test run
+2021-01-10T15:25:42.7730563-03:00;Thread#13;Info;Discovering target: Default
+2021-01-10T15:25:42.7744848-03:00;Thread#13;Info;Discovering tests from assembly: D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:25:43.3125241-03:00;Thread#13;Info;Discovered tests from assembly: D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:25:43.3145191-03:00:Test Suite Dump
+2021-01-10T15:25:43.3165137-03:00:#0: Unnamed project/ - 
+2021-01-10T15:25:43.3175106-03:00:#1: Default - 
+2021-01-10T15:25:43.3175106-03:00:#2: Financeiro.Testes - 
+2021-01-10T15:25:43.3175106-03:00:#3: Calculo de juros compostos - 
+2021-01-10T15:25:43.3703714-03:00:#4: SimulacaoCalculo01 - TestAssembly:Financeiro.Testes/Feature:Calculo+de+juros+compostos/Scenario:SimulacaoCalculo01
+2021-01-10T15:25:43.3703714-03:00:#5: SimulacaoCalculo02 - TestAssembly:Financeiro.Testes/Feature:Calculo+de+juros+compostos/Scenario:SimulacaoCalculo02
+2021-01-10T15:25:43.3703714-03:00:#6: SimulacaoCalculo03 - TestAssembly:Financeiro.Testes/Feature:Calculo+de+juros+compostos/Scenario:SimulacaoCalculo03
+2021-01-10T15:25:43.3707351-03:00:End: Test Suite Dump
+2021-01-10T15:25:43.4032826-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:43.4053020-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-01-10T15:25:43.4053020-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-01-10T15:25:43.4102646-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:43.4102646-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:43.4102646-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:43.4102646-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-01-10T15:25:43.4122591-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-01-10T15:25:43.4132576-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-10T15:25:43.4162484-03:00:Thread #0: creating new test thread executor for Financeiro.Testes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-01-10T15:25:43.4182432-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-10T15:25:43.4212353-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-10T15:25:43.4232295-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-01-10T15:25:44.3703903-03:00:Thread#0:T:-> Loading plugin D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-01-10T15:25:44.3823578-03:00:Thread#0:T:-> Using specflow.json
+2021-01-10T15:25:44.8364826-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-01-10T15:25:44.8763775-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 10000,00
+2021-01-10T15:25:44.9830929-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(10000) (0,0s)
+2021-01-10T15:25:44.9850877-03:00:Thread#0:B:E foi definida uma taxa de 2% mensais
+2021-01-10T15:25:44.9860849-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(2) (0,0s)
+2021-01-10T15:25:44.9860849-03:00:Thread#0:B:E em um período de 12 meses
+2021-01-10T15:25:44.9870824-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(12) (0,0s)
+2021-01-10T15:25:44.9880798-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:44.9950594-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:44.9960956-03:00:Thread#0:B:Então o valor total a ser pago será R$ 12682,42
+2021-01-10T15:25:45.1071950-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<12682,42>. Actual:<0>. 
+2021-01-10T15:25:45.1899748-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-01-10T15:25:45.1932624-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:45.1932624-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-01-10T15:25:45.1932624-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-01-10T15:25:45.1932624-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:45.1932624-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:45.1932624-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:45.1932624-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-01-10T15:25:45.1932624-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-01-10T15:25:45.1932624-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-01-10T15:25:45.2188962-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,3813716 seconds
+2021-01-10T15:25:45.2219422-03:00:Thread#0: Test #4/1 is started on thread #0
+2021-01-10T15:25:45.2228860-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 10000,00
+2021-01-10T15:25:45.2238841-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(10000) (0,0s)
+2021-01-10T15:25:45.2238841-03:00:Thread#0:B:E foi definida uma taxa de 2% mensais
+2021-01-10T15:25:45.2248805-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(2) (0,0s)
+2021-01-10T15:25:45.2248805-03:00:Thread#0:B:E em um período de 12 meses
+2021-01-10T15:25:45.2248805-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(12) (0,0s)
+2021-01-10T15:25:45.2248805-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:45.2338561-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:45.2348538-03:00:Thread#0:B:Então o valor total a ser pago será R$ 12682,42
+2021-01-10T15:25:45.2358507-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<12682,42>. Actual:<0>. 
+2021-01-10T15:25:45.2378955-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:45.2378955-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-01-10T15:25:45.2378955-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-01-10T15:25:45.2378955-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:45.2386350-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:45.2386350-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:45.2386350-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-01-10T15:25:45.2386350-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-01-10T15:25:45.2386350-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-01-10T15:25:45.2398404-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0178982 seconds
+2021-01-10T15:25:45.2398404-03:00:Thread#0: Test #4/2 is started on thread #0
+2021-01-10T15:25:45.2408383-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 10000,00
+2021-01-10T15:25:45.2408383-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(10000) (0,0s)
+2021-01-10T15:25:45.2408383-03:00:Thread#0:B:E foi definida uma taxa de 2% mensais
+2021-01-10T15:25:45.2418350-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(2) (0,0s)
+2021-01-10T15:25:45.2418350-03:00:Thread#0:B:E em um período de 12 meses
+2021-01-10T15:25:45.2418350-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(12) (0,0s)
+2021-01-10T15:25:45.2418350-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:45.2428320-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:45.2428320-03:00:Thread#0:B:Então o valor total a ser pago será R$ 12682,42
+2021-01-10T15:25:45.2438296-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<12682,42>. Actual:<0>. 
+2021-01-10T15:25:45.2448267-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:45.2448267-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-01-10T15:25:45.2448267-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-01-10T15:25:45.2448267-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:45.2448267-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:45.2448267-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:45.2448267-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-01-10T15:25:45.2448267-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-01-10T15:25:45.2448267-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-10T15:25:45.2458243-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0059839 seconds
+2021-01-10T15:25:45.2465896-03:00:Thread#0: Test #5/0 is started on thread #0
+2021-01-10T15:25:45.2478192-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 11937,28
+2021-01-10T15:25:45.2488172-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(11937,28) (0,0s)
+2021-01-10T15:25:45.2488172-03:00:Thread#0:B:E foi definida uma taxa de 4% mensais
+2021-01-10T15:25:45.2498143-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(4) (0,0s)
+2021-01-10T15:25:45.2502456-03:00:Thread#0:B:E em um período de 24 meses
+2021-01-10T15:25:45.2502456-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(24) (0,0s)
+2021-01-10T15:25:45.2508140-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:45.2508140-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:45.2508140-03:00:Thread#0:B:Então o valor total a ser pago será R$ 30598,88
+2021-01-10T15:25:45.2528089-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<30598,88>. Actual:<0>. 
+2021-01-10T15:25:45.2538075-03:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2021-01-10T15:25:45.2538075-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:45.2538075-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-01-10T15:25:45.2538075-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-01-10T15:25:45.2538075-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:45.2538075-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:45.2538075-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:45.2538075-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-01-10T15:25:45.2538075-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-01-10T15:25:45.2538075-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-01-10T15:25:45.2548897-03:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0083001 seconds
+2021-01-10T15:25:45.2548897-03:00:Thread#0: Test #5/1 is started on thread #0
+2021-01-10T15:25:45.2557981-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 11937,28
+2021-01-10T15:25:45.2567959-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(11937,28) (0,0s)
+2021-01-10T15:25:45.2567959-03:00:Thread#0:B:E foi definida uma taxa de 4% mensais
+2021-01-10T15:25:45.2567959-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(4) (0,0s)
+2021-01-10T15:25:45.2579187-03:00:Thread#0:B:E em um período de 24 meses
+2021-01-10T15:25:45.2579187-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(24) (0,0s)
+2021-01-10T15:25:45.2579187-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:45.2588236-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:45.2588236-03:00:Thread#0:B:Então o valor total a ser pago será R$ 30598,88
+2021-01-10T15:25:45.2598302-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<30598,88>. Actual:<0>. 
+2021-01-10T15:25:45.2607866-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:45.2607866-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-01-10T15:25:45.2607866-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-01-10T15:25:45.2607866-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:45.2607866-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:45.2607866-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:45.2607866-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-01-10T15:25:45.2607866-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-01-10T15:25:45.2607866-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-01-10T15:25:45.2618301-03:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0069404 seconds
+2021-01-10T15:25:45.2618301-03:00:Thread#0: Test #5/2 is started on thread #0
+2021-01-10T15:25:45.2628180-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 11937,28
+2021-01-10T15:25:45.2632331-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(11937,28) (0,0s)
+2021-01-10T15:25:45.2632331-03:00:Thread#0:B:E foi definida uma taxa de 4% mensais
+2021-01-10T15:25:45.2637788-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(4) (0,0s)
+2021-01-10T15:25:45.2637788-03:00:Thread#0:B:E em um período de 24 meses
+2021-01-10T15:25:45.2637788-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(24) (0,0s)
+2021-01-10T15:25:45.2647738-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:45.2647738-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:45.2647738-03:00:Thread#0:B:Então o valor total a ser pago será R$ 30598,88
+2021-01-10T15:25:45.2658139-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<30598,88>. Actual:<0>. 
+2021-01-10T15:25:45.2670141-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:25:45.2670141-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-01-10T15:25:45.2670141-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-01-10T15:25:45.2670141-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:25:45.2670141-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:25:45.2670141-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:25:45.2670141-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-01-10T15:25:45.2670141-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-01-10T15:25:45.2670141-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-10T15:25:45.2678035-03:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0059734 seconds
+2021-01-10T15:25:45.2688692-03:00:Thread#0: Test #6/0 is started on thread #0
+2021-01-10T15:25:45.2708953-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 15000,00
+2021-01-10T15:25:45.2720145-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarValorEmprestimo(15000) (0,0s)
+2021-01-10T15:25:45.2720145-03:00:Thread#0:B:E foi definida uma taxa de 6% mensais
+2021-01-10T15:25:45.2720145-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarTaxa(6) (0,0s)
+2021-01-10T15:25:45.2727568-03:00:Thread#0:B:E em um período de 36 meses
+2021-01-10T15:25:45.2727568-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.CarregarMeses(36) (0,0s)
+2021-01-10T15:25:45.2727568-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:25:45.2737911-03:00:Thread#0:T:done: CalculoFinanceiroSpecs.ProcessarCalculo() (0,0s)
+2021-01-10T15:25:45.2737911-03:00:Thread#0:B:Então o valor total a ser pago será R$ 122208,78
+2021-01-10T15:25:45.2748076-03:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<122208,78>. Actual:<0>. 
+2021-01-10T15:25:45.2757484-03:00:Cancelling because configured number of failures reached
+2021-01-10T15:25:45.2787380-03:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 0,0098688 seconds
+2021-01-10T15:25:45.3625124-03:00:Trying to cancel thread
+2021-01-10T15:25:45.3625124-03:00:Thread cancelled
+2021-01-10T15:25:45.3744800-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-10T15:25:45.3744800-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-10T15:25:45.3744800-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-01-10T15:25:45.3844541-03:00;Thread#13;Info;test run finished
+2021-01-10T15:25:45.3844541-03:00;Thread#13;Info;publishing test results
+2021-01-10T15:25:45.3954575-03:00;Thread#13;Info;test results published
+2021-01-10T15:25:45.3954575-03:00;Thread#13;Info;generating reports
+2021-01-10T15:25:45.6667017-03:00;Thread#13;Info;Starting external report generation process
+2021-01-10T15:25:47.6035095-03:00;Thread#13;Info;Successfully generated reports.
+2021-01-10T15:25:47.6048521-03:00;Thread#13;Info;Successfully generated reports
+2021-01-10T15:25:47.6158535-03:00:Total: 3 (test executions: 7)
+2021-01-10T15:25:47.6178453-03:00:Succeeded: 0
+2021-01-10T15:25:47.6189859-03:00:Ignored: 0
+2021-01-10T15:25:47.6198117-03:00:Pending: 0
+2021-01-10T15:25:47.6198117-03:00:Skipped: 0
+2021-01-10T15:25:47.6208765-03:00:Failed: 3
+2021-01-10T15:25:47.6332006-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-01-10T15:25:47.6332006-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\projetos\dotnet_specflow\Financeiro\TestResults\Unnamed project__2021-01-10T152542.html'
+========== End of log file ==========

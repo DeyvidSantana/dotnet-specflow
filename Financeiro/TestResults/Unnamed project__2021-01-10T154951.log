@@ -1,0 +1,118 @@
+﻿2021-01-10T15:49:51.0074838-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-01-10T15:49:51.0074838-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.5.22 in Framework clr40 in x86 mode execution started
+2021-01-10T15:49:51.0080655-03:00;VSTestExecutionThread;Info;TestAdapter Location: D:\projetos\dotnet_specflow\Financeiro\packages\SpecRun.Runner.3.5.22\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-01-10T15:49:51.0084796-03:00;VSTestExecutionThread;Info;Current UserName: 'sdsde', MachineName: 'DESKTOP-CVPNEEM'
+2021-01-10T15:49:51.1670577-03:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:49:51.1670577-03:00;VSTestExecutionThread;Info;Output folder configured to "D:\projetos\dotnet_specflow\Financeiro\TestResults" (default)
+2021-01-10T15:49:51.1670577-03:00;VSTestExecutionThread;Info;Profile: 
+2021-01-10T15:49:51.2388636-03:00;VSTestExecutionThread;Info;Log file path: D:\projetos\dotnet_specflow\Financeiro\TestResults\Unnamed project__2021-01-10T154951.log
+2021-01-10T15:49:51.2502329-03:00;Thread#13;Info;Checking activation
+2021-01-10T15:49:51.3784905-03:00;Thread#13;Info;Activated.
+2021-01-10T15:49:51.3794881-03:00;Thread#13;Info;Activation check completed
+2021-01-10T15:49:51.3794881-03:00;Thread#13;Info;Starting test run
+2021-01-10T15:49:51.4562826-03:00;Thread#13;Info;Discovering target: Default
+2021-01-10T15:49:51.4562826-03:00;Thread#13;Info;Discovering tests from assembly: D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:49:52.0152604-03:00;Thread#13;Info;Discovered tests from assembly: D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\Financeiro.Testes.dll
+2021-01-10T15:49:52.0167848-03:00:Test Suite Dump
+2021-01-10T15:49:52.0187791-03:00:#0: Unnamed project/ - 
+2021-01-10T15:49:52.0187791-03:00:#1: Default - 
+2021-01-10T15:49:52.0187791-03:00:#2: Financeiro.Testes - 
+2021-01-10T15:49:52.0187791-03:00:#3: Calculo de juros compostos - 
+2021-01-10T15:49:52.0736321-03:00:#4: SimulacaoCalculo01 - TestAssembly:Financeiro.Testes/Feature:Calculo+de+juros+compostos/Scenario:SimulacaoCalculo01
+2021-01-10T15:49:52.0736321-03:00:#5: SimulacaoCalculo02 - TestAssembly:Financeiro.Testes/Feature:Calculo+de+juros+compostos/Scenario:SimulacaoCalculo02
+2021-01-10T15:49:52.0736321-03:00:#6: SimulacaoCalculo03 - TestAssembly:Financeiro.Testes/Feature:Calculo+de+juros+compostos/Scenario:SimulacaoCalculo03
+2021-01-10T15:49:52.0736321-03:00:End: Test Suite Dump
+2021-01-10T15:49:52.1015580-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:49:52.1045511-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-01-10T15:49:52.1045511-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-01-10T15:49:52.1120554-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:49:52.1120554-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:49:52.1120554-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:49:52.1120554-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-01-10T15:49:52.1135266-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-01-10T15:49:52.1145236-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-10T15:49:52.1185130-03:00:Thread #0: creating new test thread executor for Financeiro.Testes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-01-10T15:49:52.1215044-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-10T15:49:52.1255910-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-01-10T15:49:52.1275375-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-01-10T15:49:52.7329054-03:00:Thread#0:T:-> Loading plugin D:\projetos\dotnet_specflow\Financeiro\Financeiro.Testes\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-01-10T15:49:52.7438439-03:00:Thread#0:T:-> Using specflow.json
+2021-01-10T15:49:53.1886884-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-01-10T15:49:53.2285454-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 10000,00
+2021-01-10T15:49:53.3661821-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarValorEmprestimo(10000) (0,0s)
+2021-01-10T15:49:53.3681764-03:00:Thread#0:B:E foi definida uma taxa de 2% mensais
+2021-01-10T15:49:53.3701715-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarTaxa(2) (0,0s)
+2021-01-10T15:49:53.3709228-03:00:Thread#0:B:E em um período de 12 meses
+2021-01-10T15:49:53.3721660-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarMeses(12) (0,0s)
+2021-01-10T15:49:53.3731634-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:49:53.3761541-03:00:Thread#0:T:done: CalculoFinanceiroSteps.ProcessarCalculo() (0,0s)
+2021-01-10T15:49:53.3761541-03:00:Thread#0:B:Então o valor total a ser pago será R$ 12682,42
+2021-01-10T15:49:53.3871260-03:00:Thread#0:T:done: CalculoFinanceiroSteps.VerificarResultado(12682,42) (0,0s)
+2021-01-10T15:49:53.4090676-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:49:53.4090676-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-01-10T15:49:53.4090676-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-01-10T15:49:53.4090676-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:49:53.4090676-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:49:53.4090676-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:49:53.4090676-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-01-10T15:49:53.4090676-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-01-10T15:49:53.4090676-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-10T15:49:53.4320066-03:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,2423569 seconds
+2021-01-10T15:49:53.4349980-03:00:Thread#0: Test #5/0 is started on thread #0
+2021-01-10T15:49:53.4369928-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 11937,28
+2021-01-10T15:49:53.4376176-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarValorEmprestimo(11937,28) (0,0s)
+2021-01-10T15:49:53.4380708-03:00:Thread#0:B:E foi definida uma taxa de 4% mensais
+2021-01-10T15:49:53.4380708-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarTaxa(4) (0,0s)
+2021-01-10T15:49:53.4380708-03:00:Thread#0:B:E em um período de 24 meses
+2021-01-10T15:49:53.4390236-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarMeses(24) (0,0s)
+2021-01-10T15:49:53.4390236-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:49:53.4390236-03:00:Thread#0:T:done: CalculoFinanceiroSteps.ProcessarCalculo() (0,0s)
+2021-01-10T15:49:53.4399843-03:00:Thread#0:B:Então o valor total a ser pago será R$ 30598,88
+2021-01-10T15:49:53.4402178-03:00:Thread#0:T:done: CalculoFinanceiroSteps.VerificarResultado(30598,88) (0,0s)
+2021-01-10T15:49:53.4402178-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:49:53.4402178-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-01-10T15:49:53.4402178-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-01-10T15:49:53.4402178-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-10T15:49:53.4402178-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-01-10T15:49:53.4409778-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-01-10T15:49:53.4409778-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-01-10T15:49:53.4409778-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-01-10T15:49:53.4409778-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-10T15:49:53.4420313-03:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0070333 seconds
+2021-01-10T15:49:53.4420313-03:00:Thread#0: Test #6/0 is started on thread #0
+2021-01-10T15:49:53.4529457-03:00:Thread#0:B:Dado que o valor do empréstimo foi R$ 15000,00
+2021-01-10T15:49:53.4539435-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarValorEmprestimo(15000) (0,0s)
+2021-01-10T15:49:53.4546884-03:00:Thread#0:B:E foi definida uma taxa de 6% mensais
+2021-01-10T15:49:53.4550110-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarTaxa(6) (0,0s)
+2021-01-10T15:49:53.4550110-03:00:Thread#0:B:E em um período de 36 meses
+2021-01-10T15:49:53.4559381-03:00:Thread#0:T:done: CalculoFinanceiroSteps.CarregarMeses(36) (0,0s)
+2021-01-10T15:49:53.4563022-03:00:Thread#0:B:Quando eu solicitar o valor ao final do período
+2021-01-10T15:49:53.4563022-03:00:Thread#0:T:done: CalculoFinanceiroSteps.ProcessarCalculo() (0,0s)
+2021-01-10T15:49:53.4570626-03:00:Thread#0:B:Então o valor total a ser pago será R$ 122208,78
+2021-01-10T15:49:53.4573990-03:00:Thread#0:T:done: CalculoFinanceiroSteps.VerificarResultado(122208,78) (0,0s)
+2021-01-10T15:49:53.4579326-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-10T15:49:53.4579326-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-10T15:49:53.4579326-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-01-10T15:49:53.4579326-03:00:Thread#0:Scheduler: No more tests for thread
+2021-01-10T15:49:53.4619219-03:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0,0198906 seconds
+2021-01-10T15:49:53.5267498-03:00:Trying to cancel thread
+2021-01-10T15:49:53.5267498-03:00:Thread cancelled
+2021-01-10T15:49:53.5397165-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-10T15:49:53.5397165-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-10T15:49:53.5397165-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-01-10T15:49:53.5447067-03:00;Thread#13;Info;test run finished
+2021-01-10T15:49:53.5457071-03:00;Thread#13;Info;publishing test results
+2021-01-10T15:49:53.5616915-03:00;Thread#13;Info;test results published
+2021-01-10T15:49:53.5626616-03:00;Thread#13;Info;generating reports
+2021-01-10T15:49:53.8033609-03:00;Thread#13;Info;Starting external report generation process
+2021-01-10T15:50:02.5763675-03:00;Thread#13;Info;Successfully generated reports.
+2021-01-10T15:50:02.5783322-03:00;Thread#13;Info;Successfully generated reports
+2021-01-10T15:50:02.5898103-03:00:Total: 3
+2021-01-10T15:50:02.5922987-03:00:Succeeded: 3
+2021-01-10T15:50:02.5932958-03:00:Ignored: 0
+2021-01-10T15:50:02.5942931-03:00:Pending: 0
+2021-01-10T15:50:02.5942931-03:00:Skipped: 0
+2021-01-10T15:50:02.5952906-03:00:Failed: 0
+2021-01-10T15:50:02.6152369-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-01-10T15:50:02.6152369-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\projetos\dotnet_specflow\Financeiro\TestResults\Unnamed project__2021-01-10T154951.html'
+========== End of log file ==========

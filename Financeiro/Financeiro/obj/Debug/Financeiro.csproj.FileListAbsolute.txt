@@ -1,0 +1,6 @@
+D:\projetos\dotnet_specflow\Financeiro\Financeiro\bin\Debug\Financeiro.dll
+D:\projetos\dotnet_specflow\Financeiro\Financeiro\bin\Debug\Financeiro.pdb
+D:\projetos\dotnet_specflow\Financeiro\Financeiro\obj\Debug\Financeiro.csprojAssemblyReference.cache
+D:\projetos\dotnet_specflow\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.CoreCompileInputs.cache
+D:\projetos\dotnet_specflow\Financeiro\Financeiro\obj\Debug\Financeiro.dll
+D:\projetos\dotnet_specflow\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
